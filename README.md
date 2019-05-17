@@ -72,4 +72,4 @@ To use this kubernetes example make sure you first create an appropriate secret 
 
 ## Maintainers
 
-[![Nomad Reservations Logo](https://nomadreservations.co/wp-content/uploads/2019/03/logo_nomad-light-full.png)](https://nomadreservations.co)
+[![Nomad Reservations Logo](https://nomadreservations.co/wp-content/uploads/2019/03/logo_nomad-dark-full.png)](https://nomadreservations.co)
