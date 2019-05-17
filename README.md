@@ -3,7 +3,7 @@
 > _Taskforce.sh connector image for, lite-weight from apline for container installs_
 
 
-[![GitHub tag](https://img.shields.io/github/tag/nomadreservations/taskforce-connector-docker.svg)](https://github.com/nomadreservations/taskforce-connector-docker) [![Docker Stars](https://img.shields.io/docker/stars/nomadreservations/taskforce-connector-docker.svg)](https://hub.docker.com/r/nomadreservations/taskforce-connector-docker) [![Docker Pulls](https://img.shields.io/docker/pulls/nomadreservations/taskforce-connector-docker.svg)](https://hub.docker.com/r/nomadreservations/taskforce-connector-docker) [![](https://images.microbadger.com/badges/image/nomadreservations/taskforce-connector-docker:latest.svg)](https://microbadger.com/images/nomadreservations/taskforce-connector-docker:latest "Get your own image badge on microbadger.com")
+[![GitHub tag](https://img.shields.io/github/tag/nomadreservations/taskforce-connector-docker.svg)](https://github.com/nomadreservations/taskforce-connector-docker) [![Docker Stars](https://img.shields.io/docker/stars/nomadreservations/taskforce-connector-docker.svg)](https://quay.io/nomadreservations/taskforce-connector-docker) [![Docker Pulls](https://img.shields.io/docker/pulls/nomadreservations/taskforce-connector-docker.svg)](https://quay.io/nomadreservations/taskforce-connector-docker) [![](https://images.microbadger.com/badges/image/nomadreservations/taskforce-connector-docker:latest.svg)](https://microbadger.com/images/nomadreservations/taskforce-connector-docker:latest "Get your own image badge on microbadger.com")
 
 This image contains the taskforce.sh connector command in a node apline container.
 
