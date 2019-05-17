@@ -1,0 +1,9 @@
+{
+  "name": "@nomadreservations/taskforce-connector-docker",
+  "version": "1.4.2",
+  "description": "Taskforce.sh Dockerfile",
+  "main": "index.js",
+  "author": "Paul Ryan",
+  "license": "MIT",
+  "private": false
+}
